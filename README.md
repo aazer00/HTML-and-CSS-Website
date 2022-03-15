@@ -3,14 +3,14 @@
 # Overview
 Technologies: HTML CSS,
 ### View1
-![](ImageChatt/Capture.PNG)
+![](images/Capture.PNG)
 ### View2
-![](ImageChatt/Capture1.PNG)
+![](images/Capture1.PNG)
 ### View3
-![](ImageChatt/Capture2.PNG)
+![](images/Capture2.PNG)
 ### View4
-![](ImageChatt/Capture3.PNG)
+![](images/Capture3.PNG)
 ### View5
-![](ImageChatt/Capture4.PNG)
+![](images/Capture4.PNG)
 ### View6
-![](ImageChatt/Capture5.PNG)
+![](images/Capture5.PNG)
