@@ -13,4 +13,4 @@ Technologies: HTML CSS,
 ### View5
 ![](images/Capture4.PNG)
 ### View6
-![](images/Capture5.PNG) 
+![](images/Capture5.PNG)  
